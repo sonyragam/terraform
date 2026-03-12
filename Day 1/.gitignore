@@ -4,3 +4,4 @@ terraform.tfstate.backup
 *.tfstate
 *.pem
 terraform_sony
+terraform_sony.pub
